@@ -1,3 +1,6 @@
+# Updates
+
+This repo was cloned from [CGE bitbucket](https://bitbucket.org/genomicepidemiology/workspace/projects/CGE) with the aim of expanding the database to include drug resistant mutations for non-tuberculous mycobacteria (NTM) such as *Mycobacterium abscessus* and *Mycobacterium avium*.
 
 # Description
 
