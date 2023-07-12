@@ -2,6 +2,8 @@
 
 This repo was cloned from [CGE bitbucket](https://bitbucket.org/genomicepidemiology/workspace/projects/CGE) with the aim of expanding the database to include drug resistant mutations for non-tuberculous mycobacteria (NTM) such as *Mycobacterium abscessus* and *Mycobacterium avium*.
 
+**NOTE:** The NTM database is currently being updated and would be deposited as a separate repo once ready.
+
 # Description
 
 The PointFinder service contains one python script *PointFinder.py* which is the script of the latest version of the PointFinder service. The method detects chromosomal mutations predictive of drug resistance based on WGS data.
